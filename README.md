@@ -1,0 +1,3 @@
+- Assume that Tom does NOT know the thing.
+- His skills are mostly about pretty pictures.
+- Send Pikachu memes for priority treatment.
